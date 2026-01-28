@@ -87,10 +87,6 @@ Tokyo-Olympics-Azure-End-to-End-Data-Engineering/
 
 ### 1. Data Preparation
 # Converts all .xlsx files in the input folder to .csv
-Run the `Data_Format_change.ipynb` notebook to convert Excel files to CSV format:
-```python
-
-```
 
 ### 2. Azure Configuration
 Configure Azure storage credentials in Azure Databricks:
